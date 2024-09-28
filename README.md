@@ -1,5 +1,5 @@
 # Estudo em Java
- Meu aprendizado com javascript na Wyden
+ Meu aprendizado com Java na Wyden
 
 <h3>📚 IMC</h3> 
  <h6 align="center">
